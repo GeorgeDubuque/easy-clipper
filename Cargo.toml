@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+image = "0.25.6"
+nvfbc = "0.2.0"
+wayland-client = "0.31.10"
+wayland-protocols-wlr = "0.3.8"
